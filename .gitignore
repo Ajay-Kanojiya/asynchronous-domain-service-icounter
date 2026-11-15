@@ -4,5 +4,4 @@ __pycache__/
 .env
 *.pyc
 .DS_Store
-INTERVIEW_PREP.md
 docs/worker.svg
